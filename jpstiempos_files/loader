@@ -1,6 +1,4 @@
-
-
-     (function (cfg) {
+(function (cfg) {
     function isIe() {
         return /MSIE|Trident/.test(window.navigator.userAgent);
     }
